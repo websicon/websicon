@@ -42,32 +42,6 @@ Every repository here reflects these principles.
 
 ---
 
-## Repositories
-
-### 🔹 Core CRM & Automation
-Reusable modules, extensions, and integrations used across CRM implementations.
-
-- `crm-modules`
-- `automation-workflows`
-- `crm-integrations`
-
-### 🔹 Backend & System Components
-Core backend logic and services supporting business systems.
-
-- `backend-services`
-- `api-connectors`
-- `reporting-engine`
-
-### 🔹 Utilities & Internal Tools
-Shared utilities, scripts, and internal tooling.
-
-- `internal-tools`
-- `deployment-scripts`
-
-> Replace repository names with actual repositories as they are added.
-
----
-
 ## How We Work
 
 - Structured, scope-controlled development  
