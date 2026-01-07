@@ -5,7 +5,6 @@ Websicon builds **scalable CRM systems and business automation** for growing tea
 
 We focus on **system design, workflow alignment, and controlled automation**—not just tools—so teams actually adopt and scale with confidence.
 
----
 
 ## What We Do
 
@@ -17,7 +16,6 @@ We focus on **system design, workflow alignment, and controlled automation**—n
 
 Our solutions are designed for **real-world usage**, long-term maintainability, and scalability.
 
----
 
 ## Engineering Philosophy
 
@@ -30,7 +28,6 @@ We follow a few simple principles:
 
 Every repository here reflects these principles.
 
----
 
 ## Focus Areas
 
@@ -40,7 +37,6 @@ Every repository here reflects these principles.
 - Backend architecture & integrations  
 - Business systems design  
 
----
 
 ## How We Work
 
@@ -49,7 +45,6 @@ Every repository here reflects these principles.
 - Reusable components over one-off solutions  
 - Automation only where it creates measurable value  
 
----
 
 ## Tech Stack (High-Level)
 
@@ -59,9 +54,6 @@ We primarily work with:
 - Relational databases  
 - Self-hosted, customizable platforms  
 
-(Exact stack details live inside individual repositories.)
-
----
 
 ## Contributing
 
@@ -74,7 +66,6 @@ If you’re interested in:
 
 Feel free to open an issue or submit a pull request where applicable.
 
----
 
 ## About Websicon
 
@@ -83,7 +74,6 @@ Websicon is a CRM-focused software solutions company helping growing teams move 
 🌐 Website: https://websicon.in  
 📩 Contact: info@websicon.in  
 
----
 
 ## Notes
 
